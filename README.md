@@ -10,7 +10,7 @@ jsonファイルからcsvファイルを生成する。
 6. ターミナルを開く。
 7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。(`$ cd Desktop/convert_from_json_to_csv-master`)
 8. `$ python main.py`を実行する。
-9. result.csvが生成されていることを確認する。
+9. result.csvファイルが生成されていることを確認する。
 
 # ModuleNotFoundError: No module named 'pandas' と言われたら
 `$ pip install pandas`を実行する。
